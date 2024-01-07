@@ -21,12 +21,12 @@ const Nav = () => {
                 <div className='bar'></div>
             </div>
             <ul className={`nav-links ${menuOpen ? "visible" : ""}`}>
-                <il><a href="/"></a>Home</il>
-                <il><a href="/"></a>About</il>
-                <il><a href="/"></a>Menu</il>
-                <il><a href="/"></a>Reservations</il>
-                <il><a href="/booking"></a>Orders Online</il>
-                <il><a href="/"></a>Log In</il>
+                <li><a href="/"></a>Home</li>
+                <li><a href="/"></a>About</li>
+                <li><a href="/"></a>Menu</li>
+                <li><a href="/"></a>Reservations</li>
+                <li><a href="/booking"></a>Orders Online</li>
+                <li><a href="/"></a>Log In</li>
             </ul>
 
         </nav>

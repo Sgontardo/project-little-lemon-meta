@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from '../images/Logo.jpg';
+import logo from '../images/footerlogo.png';
 
 const Footer = () => {
     return(
@@ -31,9 +31,9 @@ const Footer = () => {
                 <div>
                     <h3>Social Media</h3>
                     <ul>
-                        <li><a href="/"></a>Facebook</li>
-                        <li><a href="/"></a>Instagram</li>
-                        <li><a href="/"></a>Twitter</li>
+                        <li><a href="https://www.facebook.com/"></a>Facebook</li>
+                        <li><a href="https://www.instagram.com/"></a>Instagram</li>
+                        <li><a href="https://twitter.com/?lang=en"></a>Twitter</li>
                     </ul>
                 </div>
             </section>

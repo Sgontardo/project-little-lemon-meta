@@ -34,7 +34,22 @@ const Menu = () => {
                             </div>
                         </div>
                     </div>
+                    <div className='cards'>
+                        <div className='menu-items'>
+                            <img src={image2} className='menu-items' alt="salad"/>
+                            <div className='menu-content'>
+                                <div className='heading'>
+                                    <h5>Lemon dessert</h5>
+                                    <p>$5.00</p>
+                                </div>
+                                <p>Lemon sponge cake, a creamy citrus cheesecake or a zesty sorbet with our best-ever lemon dessert recipes</p>
+                                <button className='orderbtn'>Order Now</button>
+                            </div>
+                        </div>
+                    </div>
                 </div>
+            <div>
+            </div>
         </div>
     )
 }
